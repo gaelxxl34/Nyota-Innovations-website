@@ -27,7 +27,7 @@ This repository contains the frontend code for the Nyota Innovations website, sh
 
 ## Credits
 
-Frontend design and implementation by [Your Name].
+Frontend design and implementation by Nabaggala Racheal Robins.
 
 ## License
 
